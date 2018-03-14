@@ -1,0 +1,76 @@
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe.config
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form1.resources
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Properties.Resources.resources
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csproj.GenerateResource.Cache
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csprojResolveAssemblyReference.cache
+C:\Users\Olcia\source\repos\WypozyczanieSprzetuWSG\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form2.resources
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe.config
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form1.resources
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form2.resources
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Properties.Resources.resources
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe.config
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csprojResolveAssemblyReference.cache
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form1.resources
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form2.resources
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Properties.Resources.resources
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csproj.GenerateResource.Cache
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form3.resources
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe.config
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form1.resources
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form2.resources
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form3.resources
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Properties.Resources.resources
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Admin\Desktop\serwisWsg\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe.config
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csprojResolveAssemblyReference.cache
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form1.resources
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form2.resources
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form3.resources
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Properties.Resources.resources
+C:\Users\Soban\Desktop\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csproj.GenerateResource.Cache
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe.config
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.exe
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\WypozyczanieSprzetuWSG.pdb
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csprojResolveAssemblyReference.cache
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form1.resources
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form2.resources
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Form3.resources
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.Properties.Resources.resources
+C:\Users\Soban\Desktop\Projekt zespołówka\wypozyczaniesprzetuwsg-master\wypozyczaniesprzetuwsg-master\WypozyczanieSprzetuWSG-master\WypozyczanieSprzetuWSG\obj\Debug\WypozyczanieSprzetuWSG.csproj.GenerateResource.Cache
